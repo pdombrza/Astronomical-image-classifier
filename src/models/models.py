@@ -43,7 +43,7 @@ class Net(nn.Module):
             nn.Linear(32*96*96, 1024),
             NormActLin(1024, 256),
             NormActLin(256, 32),
-            NormActLin(32, 8)
+            NormActLin(32, 7)
         )
 
 

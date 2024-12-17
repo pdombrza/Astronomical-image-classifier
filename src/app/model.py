@@ -1,5 +1,7 @@
 from abc import ABC, abstractmethod
 import numpy as np
+import torch
+import torchvision.transforms as transforms
 
 
 class Model(ABC):
@@ -13,11 +15,32 @@ class Model(ABC):
 
 
 class AstronomicalClassifier(Model):
-    def __init__(self, model):
-        ...
+    def __init__(self, model, weights_path):
+        self.model = model
+        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
+        self.model.load_state_dict(torch.load(weights_path, weights_only=True))
+        self.model.eval()
+        self.model.to(self.device)
+        self.classes = [
+            "Asteroid",
+            "Black Hole",
+            "Comet",
+            "Galaxy",
+            "Nebula",
+            "Planet",
+            "Star",
+        ]
 
     def serve(self, input_image) -> dict[str, float]:
-        ...
+        transform = transforms.Compose([
+            transforms.ToTensor(),
+            transforms.Resize((384, 384)),
+            transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
+        ])
+        input_image_tensor = transform(input_image).unsqueeze(0).to(self.device)
+        output = self.model(input_image_tensor)
+        output = torch.squeeze(output)
+        return {cl: prob for cl, prob in zip(self.classes, output)}
 
 
 class ModelStub(Model):
