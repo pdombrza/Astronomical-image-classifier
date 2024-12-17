@@ -1,0 +1,947 @@
+Accuracy for class Asteroid is: 26.6 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 54.7 %
+Accuracy for class Nebula is: 46.9 %
+Accuracy for class Planet is: 59.4 %
+Accuracy for class Star  is: 35.9 %
+General accuracy is: 31.9 %
+ep: 1/150, train_loss: 1.8482, val_loss: 1.8302
+Accuracy for class Asteroid is: 29.7 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 57.8 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 35.9 %
+General accuracy is: 35.9 %
+ep: 2/150, train_loss: 1.8103, val_loss: 1.7981
+Accuracy for class Asteroid is: 43.8 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 59.4 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 41.3 %
+ep: 3/150, train_loss: 1.7892, val_loss: 1.7601
+Accuracy for class Asteroid is: 43.8 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 28.1 %
+General accuracy is: 40.6 %
+ep: 4/150, train_loss: 1.7812, val_loss: 1.7568
+Accuracy for class Asteroid is: 51.6 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 46.9 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 40.4 %
+ep: 5/150, train_loss: 1.7749, val_loss: 1.7550
+Accuracy for class Asteroid is: 56.2 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 90.6 %
+Accuracy for class Nebula is: 51.6 %
+Accuracy for class Planet is: 32.8 %
+Accuracy for class Star  is: 34.4 %
+General accuracy is: 37.9 %
+ep: 6/150, train_loss: 1.7586, val_loss: 1.7738
+Accuracy for class Asteroid is: 57.8 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 53.1 %
+Accuracy for class Planet is: 64.1 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 40.2 %
+ep: 7/150, train_loss: 1.7517, val_loss: 1.7630
+Accuracy for class Asteroid is: 46.9 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 1.6 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 45.3 %
+Accuracy for class Planet is: 81.2 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 40.2 %
+ep: 8/150, train_loss: 1.7437, val_loss: 1.7502
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 3.1 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 51.6 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 43.8 %
+ep: 9/150, train_loss: 1.7408, val_loss: 1.7231
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 3.1 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 53.1 %
+Accuracy for class Nebula is: 65.6 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 51.6 %
+General accuracy is: 45.5 %
+ep: 10/150, train_loss: 1.7289, val_loss: 1.6969
+Accuracy for class Asteroid is: 60.9 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 3.1 %
+Accuracy for class Galaxy is: 56.2 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 43.3 %
+ep: 11/150, train_loss: 1.7243, val_loss: 1.7085
+Accuracy for class Asteroid is: 64.1 %
+Accuracy for class Black Hole is: 0.0 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 46.0 %
+ep: 12/150, train_loss: 1.7249, val_loss: 1.6880
+Accuracy for class Asteroid is: 48.4 %
+Accuracy for class Black Hole is: 7.8 %
+Accuracy for class Comet is: 3.1 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 54.7 %
+General accuracy is: 46.9 %
+ep: 13/150, train_loss: 1.7190, val_loss: 1.7013
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 12.5 %
+Accuracy for class Comet is: 6.2 %
+Accuracy for class Galaxy is: 60.9 %
+Accuracy for class Nebula is: 60.9 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 51.6 %
+General accuracy is: 46.9 %
+ep: 14/150, train_loss: 1.7155, val_loss: 1.6879
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 23.4 %
+Accuracy for class Comet is: 0.0 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 65.6 %
+Accuracy for class Planet is: 42.2 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 45.1 %
+ep: 15/150, train_loss: 1.7064, val_loss: 1.6999
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 21.9 %
+Accuracy for class Comet is: 10.9 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 53.1 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 48.4 %
+ep: 16/150, train_loss: 1.6936, val_loss: 1.6663
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 32.8 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 56.2 %
+Accuracy for class Nebula is: 50.0 %
+Accuracy for class Planet is: 60.9 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 49.3 %
+ep: 17/150, train_loss: 1.7008, val_loss: 1.6685
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 28.1 %
+Accuracy for class Comet is: 21.9 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 65.6 %
+Accuracy for class Star  is: 34.4 %
+General accuracy is: 49.3 %
+ep: 18/150, train_loss: 1.6891, val_loss: 1.6578
+Accuracy for class Asteroid is: 48.4 %
+Accuracy for class Black Hole is: 35.9 %
+Accuracy for class Comet is: 34.4 %
+Accuracy for class Galaxy is: 56.2 %
+Accuracy for class Nebula is: 56.2 %
+Accuracy for class Planet is: 62.5 %
+Accuracy for class Star  is: 35.9 %
+General accuracy is: 47.1 %
+ep: 19/150, train_loss: 1.6806, val_loss: 1.6774
+Accuracy for class Asteroid is: 57.8 %
+Accuracy for class Black Hole is: 34.4 %
+Accuracy for class Comet is: 10.9 %
+Accuracy for class Galaxy is: 82.8 %
+Accuracy for class Nebula is: 53.1 %
+Accuracy for class Planet is: 68.8 %
+Accuracy for class Star  is: 35.9 %
+General accuracy is: 49.1 %
+ep: 20/150, train_loss: 1.6694, val_loss: 1.6687
+Accuracy for class Asteroid is: 51.6 %
+Accuracy for class Black Hole is: 40.6 %
+Accuracy for class Comet is: 29.7 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 51.6 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 49.8 %
+ep: 21/150, train_loss: 1.6724, val_loss: 1.6653
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 28.1 %
+Accuracy for class Comet is: 18.8 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 52.0 %
+ep: 22/150, train_loss: 1.6704, val_loss: 1.6331
+Accuracy for class Asteroid is: 54.7 %
+Accuracy for class Black Hole is: 26.6 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 59.4 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 51.1 %
+ep: 23/150, train_loss: 1.6603, val_loss: 1.6517
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 45.3 %
+Accuracy for class Comet is: 40.6 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 56.2 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 54.2 %
+ep: 24/150, train_loss: 1.6623, val_loss: 1.6099
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 51.6 %
+Accuracy for class Comet is: 32.8 %
+Accuracy for class Galaxy is: 65.6 %
+Accuracy for class Nebula is: 54.7 %
+Accuracy for class Planet is: 59.4 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 55.4 %
+ep: 25/150, train_loss: 1.6586, val_loss: 1.6043
+Accuracy for class Asteroid is: 56.2 %
+Accuracy for class Black Hole is: 40.6 %
+Accuracy for class Comet is: 34.4 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 56.7 %
+ep: 26/150, train_loss: 1.6516, val_loss: 1.5978
+Accuracy for class Asteroid is: 56.2 %
+Accuracy for class Black Hole is: 28.1 %
+Accuracy for class Comet is: 40.6 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 60.9 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 52.5 %
+ep: 27/150, train_loss: 1.6500, val_loss: 1.6321
+Accuracy for class Asteroid is: 56.2 %
+Accuracy for class Black Hole is: 39.1 %
+Accuracy for class Comet is: 48.4 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 50.0 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 50.0 %
+General accuracy is: 56.0 %
+ep: 28/150, train_loss: 1.6415, val_loss: 1.6033
+Accuracy for class Asteroid is: 65.6 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 21.9 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 60.9 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 56.5 %
+ep: 29/150, train_loss: 1.6415, val_loss: 1.5873
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 48.4 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 68.8 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 61.2 %
+ep: 30/150, train_loss: 1.6371, val_loss: 1.5576
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 34.4 %
+Accuracy for class Comet is: 34.4 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 56.9 %
+ep: 31/150, train_loss: 1.6338, val_loss: 1.6003
+Accuracy for class Asteroid is: 78.1 %
+Accuracy for class Black Hole is: 45.3 %
+Accuracy for class Comet is: 39.1 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 50.0 %
+General accuracy is: 60.5 %
+ep: 32/150, train_loss: 1.6333, val_loss: 1.5668
+Accuracy for class Asteroid is: 53.1 %
+Accuracy for class Black Hole is: 35.9 %
+Accuracy for class Comet is: 28.1 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 55.4 %
+ep: 33/150, train_loss: 1.6322, val_loss: 1.6106
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 35.9 %
+Accuracy for class Comet is: 25.0 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 58.7 %
+ep: 34/150, train_loss: 1.6228, val_loss: 1.5744
+Accuracy for class Asteroid is: 65.6 %
+Accuracy for class Black Hole is: 48.4 %
+Accuracy for class Comet is: 26.6 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 56.0 %
+ep: 35/150, train_loss: 1.6210, val_loss: 1.5969
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 73.4 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 59.6 %
+ep: 36/150, train_loss: 1.6158, val_loss: 1.5546
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 31.2 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 62.5 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 59.2 %
+ep: 37/150, train_loss: 1.6230, val_loss: 1.5597
+Accuracy for class Asteroid is: 57.8 %
+Accuracy for class Black Hole is: 56.2 %
+Accuracy for class Comet is: 60.9 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 62.5 %
+ep: 38/150, train_loss: 1.6224, val_loss: 1.5410
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 50.0 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 50.0 %
+General accuracy is: 62.7 %
+ep: 39/150, train_loss: 1.6092, val_loss: 1.5337
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 29.7 %
+Accuracy for class Galaxy is: 82.8 %
+Accuracy for class Nebula is: 56.2 %
+Accuracy for class Planet is: 62.5 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 58.7 %
+ep: 40/150, train_loss: 1.6086, val_loss: 1.5757
+Accuracy for class Asteroid is: 64.1 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 40.6 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 67.2 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 58.5 %
+ep: 41/150, train_loss: 1.6134, val_loss: 1.5727
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 73.4 %
+Accuracy for class Comet is: 39.1 %
+Accuracy for class Galaxy is: 62.5 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 50.0 %
+General accuracy is: 62.3 %
+ep: 42/150, train_loss: 1.6043, val_loss: 1.5446
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 51.6 %
+Accuracy for class Comet is: 53.1 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 56.2 %
+Accuracy for class Planet is: 81.2 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 60.7 %
+ep: 43/150, train_loss: 1.6020, val_loss: 1.5594
+Accuracy for class Asteroid is: 60.9 %
+Accuracy for class Black Hole is: 56.2 %
+Accuracy for class Comet is: 57.8 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 60.9 %
+Accuracy for class Planet is: 64.1 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 59.4 %
+ep: 44/150, train_loss: 1.5982, val_loss: 1.5653
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 61.6 %
+ep: 45/150, train_loss: 1.5982, val_loss: 1.5398
+Accuracy for class Asteroid is: 50.0 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 43.8 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 59.2 %
+ep: 46/150, train_loss: 1.5861, val_loss: 1.5656
+Accuracy for class Asteroid is: 65.6 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 35.9 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 73.4 %
+Accuracy for class Planet is: 62.5 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 60.3 %
+ep: 47/150, train_loss: 1.5960, val_loss: 1.5574
+Accuracy for class Asteroid is: 53.1 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 43.8 %
+Accuracy for class Galaxy is: 85.9 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 60.9 %
+ep: 48/150, train_loss: 1.5876, val_loss: 1.5567
+Accuracy for class Asteroid is: 65.6 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 43.8 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 60.0 %
+ep: 49/150, train_loss: 1.5969, val_loss: 1.5562
+Accuracy for class Asteroid is: 64.1 %
+Accuracy for class Black Hole is: 56.2 %
+Accuracy for class Comet is: 45.3 %
+Accuracy for class Galaxy is: 82.8 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 64.1 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 60.7 %
+ep: 50/150, train_loss: 1.5959, val_loss: 1.5528
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 53.1 %
+Accuracy for class Comet is: 56.2 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 62.5 %
+ep: 51/150, train_loss: 1.5941, val_loss: 1.5391
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 43.8 %
+Accuracy for class Comet is: 32.8 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 79.7 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 51.6 %
+General accuracy is: 59.6 %
+ep: 52/150, train_loss: 1.5814, val_loss: 1.5688
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 45.3 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 62.7 %
+ep: 53/150, train_loss: 1.5906, val_loss: 1.5390
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 78.1 %
+Accuracy for class Nebula is: 65.6 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 63.4 %
+ep: 54/150, train_loss: 1.5860, val_loss: 1.5263
+Accuracy for class Asteroid is: 57.8 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 32.8 %
+Accuracy for class Galaxy is: 81.2 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 82.8 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 60.5 %
+ep: 55/150, train_loss: 1.5847, val_loss: 1.5588
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 59.2 %
+ep: 56/150, train_loss: 1.5843, val_loss: 1.5595
+Accuracy for class Asteroid is: 78.1 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 50.0 %
+Accuracy for class Galaxy is: 82.8 %
+Accuracy for class Nebula is: 65.6 %
+Accuracy for class Planet is: 85.9 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 66.5 %
+ep: 57/150, train_loss: 1.5891, val_loss: 1.4920
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 76.6 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 66.1 %
+ep: 58/150, train_loss: 1.5838, val_loss: 1.4970
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 42.2 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 76.6 %
+Accuracy for class Planet is: 87.5 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 65.4 %
+ep: 59/150, train_loss: 1.5753, val_loss: 1.5031
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 46.9 %
+Accuracy for class Galaxy is: 81.2 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 81.2 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 65.0 %
+ep: 60/150, train_loss: 1.5838, val_loss: 1.5152
+Accuracy for class Asteroid is: 82.8 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 53.1 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 85.9 %
+Accuracy for class Star  is: 53.1 %
+General accuracy is: 69.4 %
+ep: 61/150, train_loss: 1.5740, val_loss: 1.4815
+Accuracy for class Asteroid is: 76.6 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 42.2 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 82.8 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 54.7 %
+General accuracy is: 68.1 %
+ep: 62/150, train_loss: 1.5816, val_loss: 1.4971
+Accuracy for class Asteroid is: 84.4 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 48.4 %
+Accuracy for class Galaxy is: 78.1 %
+Accuracy for class Nebula is: 65.6 %
+Accuracy for class Planet is: 85.9 %
+Accuracy for class Star  is: 51.6 %
+General accuracy is: 67.9 %
+ep: 63/150, train_loss: 1.5741, val_loss: 1.4809
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 68.8 %
+Accuracy for class Comet is: 45.3 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 63.4 %
+ep: 64/150, train_loss: 1.5691, val_loss: 1.5152
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 62.9 %
+ep: 65/150, train_loss: 1.5674, val_loss: 1.5258
+Accuracy for class Asteroid is: 82.8 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 57.8 %
+Accuracy for class Galaxy is: 62.5 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 62.5 %
+Accuracy for class Star  is: 48.4 %
+General accuracy is: 63.4 %
+ep: 66/150, train_loss: 1.5707, val_loss: 1.5356
+Accuracy for class Asteroid is: 79.7 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 46.9 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 82.8 %
+Accuracy for class Star  is: 53.1 %
+General accuracy is: 66.7 %
+ep: 67/150, train_loss: 1.5656, val_loss: 1.4917
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 45.3 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 53.1 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 60.7 %
+ep: 68/150, train_loss: 1.5656, val_loss: 1.5545
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 70.3 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 64.1 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 63.8 %
+ep: 69/150, train_loss: 1.5702, val_loss: 1.5336
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 71.9 %
+Accuracy for class Comet is: 60.9 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 68.8 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 64.3 %
+ep: 70/150, train_loss: 1.5575, val_loss: 1.5181
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 59.4 %
+Accuracy for class Comet is: 56.2 %
+Accuracy for class Galaxy is: 60.9 %
+Accuracy for class Nebula is: 73.4 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 62.7 %
+ep: 71/150, train_loss: 1.5641, val_loss: 1.5357
+Accuracy for class Asteroid is: 65.6 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 37.5 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 78.1 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 29.7 %
+General accuracy is: 59.4 %
+ep: 72/150, train_loss: 1.5624, val_loss: 1.5620
+Accuracy for class Asteroid is: 79.7 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 59.4 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 66.1 %
+ep: 73/150, train_loss: 1.5617, val_loss: 1.5003
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 60.9 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 66.1 %
+ep: 74/150, train_loss: 1.5642, val_loss: 1.5146
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 43.8 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 82.8 %
+Accuracy for class Star  is: 28.1 %
+General accuracy is: 62.1 %
+ep: 75/150, train_loss: 1.5559, val_loss: 1.5433
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 68.8 %
+Accuracy for class Galaxy is: 65.6 %
+Accuracy for class Nebula is: 57.8 %
+Accuracy for class Planet is: 56.2 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 58.7 %
+ep: 76/150, train_loss: 1.5506, val_loss: 1.5706
+Accuracy for class Asteroid is: 82.8 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 62.5 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 78.1 %
+Accuracy for class Planet is: 67.2 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 65.8 %
+ep: 77/150, train_loss: 1.5492, val_loss: 1.5062
+Accuracy for class Asteroid is: 76.6 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 60.9 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 68.8 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 66.7 %
+ep: 78/150, train_loss: 1.5606, val_loss: 1.4997
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 67.2 %
+Accuracy for class Comet is: 70.3 %
+Accuracy for class Galaxy is: 60.9 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 60.9 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 63.8 %
+ep: 79/150, train_loss: 1.5442, val_loss: 1.5160
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 65.6 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 64.7 %
+ep: 80/150, train_loss: 1.5423, val_loss: 1.5147
+Accuracy for class Asteroid is: 76.6 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 50.0 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 62.5 %
+ep: 81/150, train_loss: 1.5441, val_loss: 1.5318
+Accuracy for class Asteroid is: 76.6 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 71.9 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 65.8 %
+ep: 82/150, train_loss: 1.5511, val_loss: 1.5041
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 75.0 %
+Accuracy for class Comet is: 59.4 %
+Accuracy for class Galaxy is: 78.1 %
+Accuracy for class Nebula is: 62.5 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 67.0 %
+ep: 83/150, train_loss: 1.5468, val_loss: 1.5041
+Accuracy for class Asteroid is: 78.1 %
+Accuracy for class Black Hole is: 57.8 %
+Accuracy for class Comet is: 59.4 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 64.1 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 64.3 %
+ep: 84/150, train_loss: 1.5320, val_loss: 1.5227
+Accuracy for class Asteroid is: 75.0 %
+Accuracy for class Black Hole is: 73.4 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 65.6 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 65.8 %
+ep: 85/150, train_loss: 1.5385, val_loss: 1.5064
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 70.3 %
+Accuracy for class Galaxy is: 54.7 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 68.8 %
+Accuracy for class Star  is: 51.6 %
+General accuracy is: 64.1 %
+ep: 86/150, train_loss: 1.5280, val_loss: 1.5184
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 75.0 %
+Accuracy for class Galaxy is: 64.1 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 71.9 %
+Accuracy for class Star  is: 43.8 %
+General accuracy is: 66.1 %
+ep: 87/150, train_loss: 1.5462, val_loss: 1.4988
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 70.3 %
+Accuracy for class Comet is: 43.8 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 78.1 %
+Accuracy for class Planet is: 65.6 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 63.6 %
+ep: 88/150, train_loss: 1.5330, val_loss: 1.5294
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 59.4 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 56.2 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 62.7 %
+ep: 89/150, train_loss: 1.5439, val_loss: 1.5298
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 82.8 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 65.2 %
+ep: 90/150, train_loss: 1.5294, val_loss: 1.5145
+Accuracy for class Asteroid is: 62.5 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 48.4 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 73.4 %
+Accuracy for class Planet is: 81.2 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 62.9 %
+ep: 91/150, train_loss: 1.5422, val_loss: 1.5322
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 46.9 %
+Accuracy for class Galaxy is: 75.0 %
+Accuracy for class Nebula is: 71.9 %
+Accuracy for class Planet is: 82.8 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 64.3 %
+ep: 92/150, train_loss: 1.5366, val_loss: 1.5218
+Accuracy for class Asteroid is: 79.7 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 56.2 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 45.3 %
+General accuracy is: 64.3 %
+ep: 93/150, train_loss: 1.5302, val_loss: 1.5201
+Accuracy for class Asteroid is: 76.6 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 54.7 %
+Accuracy for class Galaxy is: 79.7 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 39.1 %
+General accuracy is: 66.5 %
+ep: 94/150, train_loss: 1.5201, val_loss: 1.5032
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 46.9 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 82.8 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 62.7 %
+ep: 95/150, train_loss: 1.5240, val_loss: 1.5368
+Accuracy for class Asteroid is: 71.9 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 50.0 %
+Accuracy for class Galaxy is: 82.8 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 34.4 %
+General accuracy is: 64.3 %
+ep: 96/150, train_loss: 1.5251, val_loss: 1.5174
+Accuracy for class Asteroid is: 81.2 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 64.1 %
+Accuracy for class Galaxy is: 68.8 %
+Accuracy for class Nebula is: 70.3 %
+Accuracy for class Planet is: 67.2 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 64.7 %
+ep: 97/150, train_loss: 1.5195, val_loss: 1.5165
+Accuracy for class Asteroid is: 71.9 %
+Accuracy for class Black Hole is: 60.9 %
+Accuracy for class Comet is: 51.6 %
+Accuracy for class Galaxy is: 76.6 %
+Accuracy for class Nebula is: 75.0 %
+Accuracy for class Planet is: 79.7 %
+Accuracy for class Star  is: 37.5 %
+General accuracy is: 64.7 %
+ep: 98/150, train_loss: 1.5269, val_loss: 1.5206
+Accuracy for class Asteroid is: 78.1 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 68.8 %
+Accuracy for class Galaxy is: 62.5 %
+Accuracy for class Nebula is: 82.8 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 68.1 %
+ep: 99/150, train_loss: 1.5277, val_loss: 1.4901
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 64.1 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 59.4 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 63.2 %
+ep: 100/150, train_loss: 1.5209, val_loss: 1.5334
+Accuracy for class Asteroid is: 59.4 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 70.3 %
+Accuracy for class Galaxy is: 73.4 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 73.4 %
+Accuracy for class Star  is: 35.9 %
+General accuracy is: 65.4 %
+ep: 101/150, train_loss: 1.5207, val_loss: 1.5150
+Accuracy for class Asteroid is: 68.8 %
+Accuracy for class Black Hole is: 62.5 %
+Accuracy for class Comet is: 62.5 %
+Accuracy for class Galaxy is: 71.9 %
+Accuracy for class Nebula is: 81.2 %
+Accuracy for class Planet is: 78.1 %
+Accuracy for class Star  is: 42.2 %
+General accuracy is: 66.7 %
+ep: 102/150, train_loss: 1.5235, val_loss: 1.4979
+Accuracy for class Asteroid is: 70.3 %
+Accuracy for class Black Hole is: 54.7 %
+Accuracy for class Comet is: 62.5 %
+Accuracy for class Galaxy is: 70.3 %
+Accuracy for class Nebula is: 84.4 %
+Accuracy for class Planet is: 70.3 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 64.7 %
+ep: 103/150, train_loss: 1.5215, val_loss: 1.5089
+Accuracy for class Asteroid is: 73.4 %
+Accuracy for class Black Hole is: 65.6 %
+Accuracy for class Comet is: 64.1 %
+Accuracy for class Galaxy is: 67.2 %
+Accuracy for class Nebula is: 67.2 %
+Accuracy for class Planet is: 76.6 %
+Accuracy for class Star  is: 46.9 %
+General accuracy is: 65.8 %
+ep: 104/150, train_loss: 1.5160, val_loss: 1.5064
+Accuracy for class Asteroid is: 67.2 %
+Accuracy for class Black Hole is: 64.1 %
+Accuracy for class Comet is: 57.8 %
+Accuracy for class Galaxy is: 60.9 %
+Accuracy for class Nebula is: 85.9 %
+Accuracy for class Planet is: 75.0 %
+Accuracy for class Star  is: 40.6 %
+General accuracy is: 64.5 %
+ep: 105/150, train_loss: 1.5159, val_loss: 1.5149
+
+

@@ -46,7 +46,6 @@ class Net(nn.Module):
             NormActLin(32, 7)
         )
 
-
     def forward(self, x):
         x = self.conv(x)
         x = torch.flatten(x, 1)
